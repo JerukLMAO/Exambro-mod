@@ -1,13 +1,14 @@
 # Exambro-mod
 EXAMBRO MOD TERBARU PALING GACOR
 
-Link download klik di sini
+Link download [klik di sini](https://github.com/JerukLMAO/Exambro-mod/releases/tag/4.1)
 
 ---
 
 ### Fitur Mod:
-- Gada suara alarm/notif
+- Ga ada suara alarm/notif
 - Bisa keluar
+- Bisa buka notifikasi
 - Bisa Screenshot
 - Bisa floating app
 - Bisa split screen

@@ -12,7 +12,7 @@ Link download [klik di sini](https://github.com/JerukLMAO/Exambro-mod/releases/t
 - Bisa Screenshot
 - Bisa floating app
 - Bisa split screen
-- Link nyantol, gausah scan ulang kalo keluar/crash
+- Link nyantol, gausah scan ulang kalo keluar/crash (kadang jg ilang si)
 - Warna tulisan sama
 - Background sama
 
